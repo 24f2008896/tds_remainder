@@ -1,0 +1,1 @@
+For a future assignment with the same bundle format, yes: update assignment.json with the new title, page URL, bundle URL, and a new baseline filename. Then add that assignment’s current question IDs and titles in the baseline file you named. The checker compares the bundle with that baseline, so changing only assignment.json won’t provide the baseline for a new assignment.
