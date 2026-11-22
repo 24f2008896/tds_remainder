@@ -28,8 +28,8 @@ jobs:
           git commit -m "Update assignment question baseline"
           git push
       - name: Email when questions change
-        # if: steps.check.outputs.changed == 'true'
-        if: always()
+        if: steps.check.outputs.changed == 'true'
+        # if: always()
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
