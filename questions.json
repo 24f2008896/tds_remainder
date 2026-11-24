@@ -2,5 +2,6 @@
   "q-rag-colosseum-server": "RAG Colosseum: 20-Probe Deployment Gauntlet (50-Passage Knowledge Base)",
   "q-ollama-faiss-rank-correlation-server": "Dual Embedding Alignment: Ollama, FAISS, and Rank Correlation",
   "q-ball-tracker-server": "Track the red ball",
-  "q-harness-safety-router-server": "Harness Engineering: Contextual Safety and Model Routing"
+  "q-harness-safety-router-server": "Harness Engineering: Contextual Safety and Model Routing",
+  "q-time-use-review-server": "Time Use Charts: which data story would you share?"
 }
